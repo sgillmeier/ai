@@ -1,10 +1,17 @@
-MindFlow – Veröffentlichungsfassung V12-Webtest-1
+MindFlow V22 — Third-party notices / Hinweise zu Drittbestandteilen
 
-Diese Seite enthält GSAP 3.15.0 aus dem bereitgestellten Websitepaket.
-Copyright 2026 GreenSock. All rights reserved.
-Lizenz: https://gsap.com/standard-license/
-Die Copyright- und Lizenzhinweise in den eingebetteten Bibliothekskopien bleiben erhalten.
+GSAP 3.15.0
+Copyright 2026, GreenSock. All rights reserved.
+Subject to the terms at https://gsap.com/standard-license.
+Author: Jack Doyle, jack@greensock.com
 
-Die MIT-Lizenz des Repositories ändert die Lizenz von GSAP nicht.
-Keine mitgelieferten Schriftdateien. Keine Mobbin-Abbildungen oder Herstellerlogos.
-HTML/CSS/SVG und die redaktionellen Texte gehören zur MindFlow-Website.
+GSAP is embedded in the HTML files. Its original license header is retained.
+GSAP ist in die HTML-Dateien eingebettet. Der originale Lizenzkopf bleibt erhalten.
+
+The HTML/CSS/SVG illustrations were created for this website.
+No font files, third-party product screenshots or logos are included.
+Mobbin was used only for design research.
+
+Die HTML/CSS/SVG-Illustrationen wurden für diese Website erstellt.
+Keine Fontdateien, fremden Produktabbildungen oder Logos sind enthalten.
+Mobbin wurde ausschließlich als Gestaltungsreferenz genutzt.
