@@ -1,0 +1,10 @@
+MindFlow – Veröffentlichungsfassung V12-Webtest-1
+
+Diese Seite enthält GSAP 3.15.0 aus dem bereitgestellten Websitepaket.
+Copyright 2026 GreenSock. All rights reserved.
+Lizenz: https://gsap.com/standard-license/
+Die Copyright- und Lizenzhinweise in den eingebetteten Bibliothekskopien bleiben erhalten.
+
+Die MIT-Lizenz des Repositories ändert die Lizenz von GSAP nicht.
+Keine mitgelieferten Schriftdateien. Keine Mobbin-Abbildungen oder Herstellerlogos.
+HTML/CSS/SVG und die redaktionellen Texte gehören zur MindFlow-Website.
