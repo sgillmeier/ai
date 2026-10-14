@@ -35,3 +35,36 @@ Medien / Quellen
 
 - imessage-logo.svg: unverändert aus dem Recherche-Return übernommen. Quelle: https://commons.wikimedia.org/wiki/File:IMessage_logo.svg. Apple-Markenkennzeichen, nicht als selbst entworfenes Logo ausgegeben.
 - mindflow-original.png: Originalgrafik aus Stephans Alt-CV; unverändert. mindflow-favicon.png: reine Verkleinerung derselben Grafik.
+
+
+V6 — Ergänzte Originaldateien und Kennzeichen
+- maps-original-ios26.png — Apple Maps iOS 26 icon. Quelle: https://upload.wikimedia.org/wikipedia/commons/2/21/Apple_Maps_iOS_26_icon.png. Marke Apple; am 14.10.2026 Commons-Loeschdiskussion zur Schutzfaehigkeit; NICHT als frei deklarieren.
+- business-chat-maps-2018.jpg — Business Chat Einstieg aus Maps (2018). Quelle: https://www.apple.com/newsroom/images/product/os/ios/standard/iOS_11.3_business_maps_screen_03292018_carousel.jpg.large_2x.jpg. Apple-Produktabbildung; keine eigene Lizenz- oder Veröffentlichungsfreigabe behauptet.
+- wikipedia-original.svg — Wikipedia-Logo v2. Quelle: https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2.svg. WMF-Marke/geschuetzt; SVG-Verfuegbarkeit != freie Lizenz; Nutzungsbedingungen separat.
+- ar-cube-focus.svg — Phosphor cube-focus. Quelle: https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cube-focus.svg. MIT (offen).
+- poi-booking.svg — Booking. Quelle: https://commons.wikimedia.org/wiki/Special:FilePath/Booking.com_logo.svg. Markenlogo geschuetzt; Lizenz am Commons-File pruefen; NICHT als frei deklarieren.
+- poi-foursquare.svg — Foursquare. Quelle: https://commons.wikimedia.org/wiki/Special:FilePath/Foursquare_logo.svg. Markenlogo geschuetzt; Lizenz am Commons-File pruefen; NICHT als frei deklarieren.
+- poi-yelp.svg — Yelp. Quelle: https://commons.wikimedia.org/wiki/Special:FilePath/Yelp_Logo.svg. Markenlogo geschuetzt; Lizenz am Commons-File pruefen; NICHT als frei deklarieren.
+
+AR: Phosphor cube-focus wird als allgemeines AR-Symbol verwendet, nicht als Apple-App-Logo. Unveränderte SVG-Datei.
+MIT License
+
+Copyright (c) 2023 Phosphor Icons
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

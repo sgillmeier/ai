@@ -1,0 +1,68 @@
+/* V6: Arbeitsfelder als verständliche Kombinationen. Keine MindFlow-Selektoren. */
+.apple-page .visually-hidden-v6{position:absolute!important;width:1px!important;height:1px!important;overflow:hidden!important;clip-path:inset(50%);white-space:nowrap}
+.apple-page .field-combo{display:flex;align-items:center;flex-wrap:wrap;gap:10px;min-width:0}
+.apple-page .field-pill{display:inline-flex;align-items:center;gap:10px;min-height:60px;padding:7px 13px 7px 8px;border:1px solid #dce4ee;border-radius:16px;background:#fff;color:#243a53;font-size:15px;font-weight:650;line-height:1.25;box-shadow:0 2px 8px #173a6404;min-width:0}
+.apple-page .field-image{display:grid;place-items:center;flex:none;width:46px;height:46px}
+.apple-page .field-image img{width:100%;height:100%;object-fit:contain;display:block}
+.apple-page .field-image.spatial{border-radius:12px;background:#eff3f9;padding:5px}
+.apple-page .field-image.square-small{padding:4px}
+.apple-page .field-image.wordmark{width:76px;padding:3px 0}
+.apple-page .field-name{min-width:0}.apple-page .chapter-fields{margin-bottom:19px}
+.apple-page .with-field-combo{display:block;gap:0}.apple-page .with-field-combo>div{max-width:100%}
+.apple-page .with-field-combo h2{max-width:24ch}
+.apple-page .work-areas .field-image{width:40px;height:40px}
+.apple-page .work-areas a{gap:12px;min-height:65px;font-size:15px;padding:10px 18px}
+.apple-page .film-fields{padding:0 18px 11px;gap:7px}
+.apple-page .film-fields .field-pill{border:0;background:transparent;box-shadow:none;padding:0;gap:7px;font-size:12px;min-height:32px}
+.apple-page .film-fields .field-pill+.field-pill{margin-left:9px}
+.apple-page .film-fields .field-image{width:29px;height:29px}
+.apple-page .film-fields .field-image.spatial{padding:3px;border-radius:7px}
+.apple-page .technical-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;padding:22px 0 4px}
+.apple-page .technical-step{min-width:0}.apple-page .technical-step:not(:first-child){border-left:1px solid #dce3ed;padding-left:21px}
+.apple-page .technical-step h3{font-size:14px;line-height:1.45;color:#233a54;font-weight:750}
+.apple-page .technical-step p{font-size:13px;margin-top:9px;line-height:1.65}
+.apple-page .business .business-grid{grid-template-columns:1.03fr .97fr;gap:52px;align-items:start}
+.apple-page .business h2{max-width:26ch;font-size:clamp(32px,3.4vw,48px);text-wrap:balance}
+.apple-page .partner-contribution{padding-top:13px;margin-top:13px;border-top:1px solid #d0dceb}
+.apple-page .maps-contact-figure{background:#fafafa;padding:18px 13px 15px;border:1px solid #e1e6ee;border-radius:24px}
+.apple-page .maps-contact-figure .remote-display>img{width:100%;max-width:530px;height:auto;margin:auto}
+.apple-page .maps-contact-figure .media-tag{padding:0 6px 9px}
+.apple-page .maps-contact-figure figcaption{display:flex;gap:12px 20px;flex-wrap:wrap;align-items:center;padding:12px 8px 0}
+.apple-page .maps-contact-figure .remote-caption{flex-basis:100%;font-size:13px;line-height:1.6}
+.apple-page .maps-contact-figure .source-link,.apple-page .maps-contact-figure .zoom-link{font-size:12px;min-height:40px;margin:0}
+.apple-page .wiki-source-logo{object-fit:contain;flex:none}
+.apple-page .poi-fields{margin-bottom:22px;gap:8px}
+.apple-page .poi-fields .field-pill{font-size:13px;min-height:52px;padding:6px 11px 6px 7px;gap:7px;border-radius:13px}
+.apple-page .poi-fields .field-image{height:37px;width:37px}.apple-page .poi-fields .field-image.wordmark{width:64px}
+.apple-page .source-group-label{font-size:12px;line-height:1.5;letter-spacing:.01em;font-weight:650;color:#536780;margin-top:22px;margin-bottom:8px}
+.apple-page .provider-names{gap:0;display:flex;flex-wrap:wrap}
+.apple-page .named-source-only{font-size:13px;color:#435b77;line-height:1.6}
+.apple-page .named-source-only:not(:last-child):after{content:'·';padding:0 10px;color:#8c9aac}
+.apple-page .provider-logo-row{display:flex;align-items:stretch;flex-wrap:wrap;gap:10px;margin:17px 0 13px}
+.apple-page .provider-logo-card{display:flex;align-items:center;justify-content:center;border:1px solid #dce3ed;border-radius:12px;background:#fff;padding:12px 17px;min-height:62px;flex:1;max-width:215px;min-width:132px}
+.apple-page .provider-logo-card img{object-fit:contain;width:100%;max-width:136px;height:33px}
+.apple-page .provider-logo-card:last-child img{height:38px;max-width:105px}
+.apple-page .provider-texts{margin-top:12px!important}
+.apple-page .provider-texts a{font-weight:500}
+.apple-page .sample-reference{margin-top:20px;border-top:1px solid #d7e0ed;padding-top:15px;font-size:13px}
+.apple-page .sample-reference summary{display:flex;align-items:center;gap:9px;cursor:pointer;list-style:none;color:#3b5675;font-weight:650;min-height:44px}
+.apple-page .sample-reference summary:after{content:'+';margin-left:auto;font-size:20px}
+.apple-page .sample-reference[open] summary:after{content:'−'}
+.apple-page .sample-reference summary .ic{width:20px;height:20px}
+.apple-page .sample-link-row{display:flex;flex-wrap:wrap;gap:8px 22px;padding:12px 0}.apple-page .sample-link-row a{min-height:36px;display:inline-flex;align-items:center}
+@media(max-width:1050px){.apple-page .business .business-grid{gap:32px}}
+@media(max-width:760px){
+ .apple-page .field-combo{gap:8px}.apple-page .field-pill{min-height:53px;font-size:13px;padding:6px 10px 6px 6px;border-radius:13px;gap:8px}
+ .apple-page .field-image{width:39px;height:39px}.apple-page .chapter-fields{margin-bottom:16px}
+ .apple-page .field-image.spatial{padding:4px;border-radius:9px}
+ .apple-page .work-areas .field-image{width:35px;height:35px}.apple-page .work-areas a{padding:9px 6px;font-size:12px;gap:8px;min-height:78px}
+ .apple-page .film-fields{padding:0 15px 11px;gap:5px}.apple-page .film-fields .field-pill{font-size:11px;gap:6px;min-height:30px;padding:0}
+ .apple-page .film-fields .field-image{width:26px;height:26px}.apple-page .film-fields .field-pill+.field-pill{margin-left:8px}
+ .apple-page .technical-grid{grid-template-columns:1fr;gap:17px;padding-top:18px}.apple-page .technical-step:not(:first-child){border-left:0;border-top:1px solid #dce3ed;padding:16px 0 0}
+ .apple-page .business .business-grid{grid-template-columns:1fr;gap:27px}.apple-page .business h2{font-size:34px;line-height:1.12;max-width:24ch}
+ .apple-page .maps-contact-figure{padding:16px 9px 13px}.apple-page .maps-contact-figure .remote-display>img{width:100%;max-width:500px}
+ .apple-page .poi-fields .field-pill{font-size:12px;min-height:45px;padding:5px 8px 5px 5px;gap:5px}
+ .apple-page .poi-fields .field-image{height:30px;width:30px}.apple-page .poi-fields .field-image.wordmark{width:53px}
+ .apple-page .sample-reference{font-size:12px}
+}
+@media(max-width:359px){.apple-page .business h2{font-size:30px}.apple-page .poi-fields{gap:6px}.apple-page .poi-fields .field-pill{font-size:11px;padding-right:6px}.apple-page .poi-fields .field-image.wordmark{width:46px}.apple-page .provider-logo-card{min-width:116px;padding-inline:11px}}
