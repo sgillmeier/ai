@@ -1,63 +1,37 @@
-MindFlow V22 — Third-party notices / Hinweise zu Drittbestandteilen
+PORTFOLIO — THIRD-PARTY NOTICES / DRITTBESTANDTEILE
 
-GSAP 3.15.0
-Copyright 2026, GreenSock. All rights reserved.
-Subject to the terms at https://gsap.com/standard-license.
-Author: Jack Doyle, jack@greensock.com
+Die MindFlow-Hauptseiten enthalten GSAP. Die ursprünglichen Lizenzköpfe sind erhalten.
+GSAP 3.15.0 · Copyright 2026 GreenSock · https://gsap.com/standard-license
 
-GSAP is embedded in the HTML files. Its original license header is retained.
-GSAP ist in die HTML-Dateien eingebettet. Der originale Lizenzkopf bleibt erhalten.
+Die SVG-Symbole stammen aus dem vom Auftraggeber bereitgestellten Recherchepaket:
+lucide-static 1.56.0. Keine Schriftdateien werden mitgeliefert.
+https://lucide.dev/license
 
-The HTML/CSS/SVG illustrations were created for this website.
-No font files are distributed. The original MindFlow illustrations do not use third-party product screenshots. The additional Apple reference pages include two user-supplied screenshots from Apple's product presentation; these are identified separately below.
-Mobbin was used only for design research.
+ISC License
+Copyright (c) 2026 Lucide Icons and Contributors
 
-Die HTML/CSS/SVG-Illustrationen wurden für diese Website erstellt.
-Es werden keine Fontdateien mitgeliefert. Die ursprünglichen MindFlow-Illustrationen enthalten keine fremden Produktabbildungen. Die ergänzten Apple-Referenzseiten enthalten zwei vom Nutzer bereitgestellte Screenshots der Apple-Produktdarstellung; diese werden nachfolgend separat zugeordnet.
-Mobbin wurde ausschließlich als Gestaltungsreferenz genutzt.
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-Portfolio-Ergänzung / Portfolio extension · 13.10.2026
+For Feather-derived icons: The MIT License (MIT)
+Copyright (c) 2013-present Cole Bemis
 
-Apple-Referenzabbildungen / Apple reference images
-- apple-ar-navigation.png
-- apple-indoor-maps.png
-Quelle / Source: https://www.apple.com/maps/
-Vom Portfolioautor bereitgestellte Screenshots; im Paket unverändert kopiert.
-User-supplied screenshots, copied unchanged into this package.
-Die abgebildeten Apple-Inhalte und Marken gehören ihren jeweiligen Rechteinhabern.
-Apple content and trademarks belong to their respective rights holders.
-Die Abbildungen zeigen veröffentlichte Produktfunktionen, nicht die historische AR-Maps-Vorentwicklung.
-They show released product features, not the historical AR Maps prototype.
-Keine Apple-Unterstützung oder Bestätigung dieses Portfolios wird behauptet.
-No Apple endorsement or verification of this portfolio is implied.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Der öffentliche Upload-Bestand enthält keine MP4-Dateien.
-The public upload directory contains no MP4 files.
+Medien / Quellen
+- AR-Maps.mp4 und ARMapsFlyover.mp4: vom Auftraggeber bereitgestellte Projektfilme; bytegleich übernommen. Die Vorschaubilder sind separate Standbilder daraus.
+- maps-schweiz-original.png und maps-tripadvisor-original.png: vom Auftraggeber bereitgestellte Screenshots, unverändert. Die Screenshots enthalten die jeweiligen Quellenkennzeichnungen.
+- apple-indoor-original.png und apple-ar-original.png: bereitgestellte Apple-Produktabbildungen. Die separaten *-screen.webp-Dateien zeigen ausgewählte tatsächliche Bildschirminhalte ohne erfundenes Gerätegehäuse.
+- Business Chat: öffentliche Produktabbildung aus Apple Newsroom, 29. März 2018. https://www.apple.com/newsroom/2018/03/ios-11-3-is-available-today/
+- AR-Reinscreen: https://www.apple.com/maps/
+- business-chat-2018.jpg und ar-navigation-screen.jpg: die im Recherche-Return gelieferten Apple-Originaldateien sind lokal eingebunden; keine Laufzeit-Anfrage an Apples Bildserver.
+- Neutrale Quellenbeschriftungen und semantische Icons sind keine Behauptung einer Markenpartnerschaft.
+- Mobbin-Screenshots dienen ausschließlich als interne Gestaltungsvorlagen; keine davon sind in dieser Website enthalten.
 
-Lesefassungen / Reading editions
-Aus den vorhandenen zwölf HTML-Themenkarten pro Sprache abgeleitet.
-Quelldokumente und ursprüngliche technischen Quellenhinweise bleiben die inhaltliche Grundlage.
-Derived from the existing twelve HTML topic cards in each language.
-The source documents and their original technical evidence notes remain the content basis.
+- tripadvisor-source-icon.png: kleiner Ausschnitt des sichtbaren Tripadvisor-Kennzeichens aus dem bereitgestellten Restaurant-Screenshot; keine behauptete neue Markenpartnerschaft.
 
-
-Portfolio V2 · 13.10.2026
-
-Gestaltungsrecherche / Design references (Mobbin; not redistributed):
-Daylight: https://mobbin.com/sites/sections/7655435a-d6e7-4c7c-897a-5ddf03b3b015
-Grain: https://mobbin.com/sites/sections/707379bd-de88-41d2-90b5-069e476a139c
-Lightship: https://mobbin.com/sites/sections/da6aa79b-d5cc-4efc-9966-8b3c5ec86051
-Keine Mobbin-Abbildungen und keine Fontdateien werden mitgeliefert.
-
-Beispielaufnahmen: maps-wikipedia-schweiz.png und maps-poi-tripadvisor.png sind
-Ausschnitte der vom Autor gelieferten Apple-Maps-Screenshots. Ausschnitte
-entfernen die Statusleiste und nicht benötigte Bereiche; keine Beschriftungen
-oder Bewertungen wurden verändert. UI: Apple. Sichtbare Restaurantbilder
-und Bewertungszuordnung: Tripadvisor bzw. die jeweiligen Rechteinhaber.
-Die Screenshots sind Anschauungsbeispiele, keine Bestätigung individueller
-Urheberschaft oder aktueller Zahlen. Beschreibung des persönlichen Beitrags:
-Dr. Stephan Gillmeier. Wikimedia Commons: https://commons.wikimedia.org/
-
-Die öffentlich verlinkten AR-Maps-Kontextseiten enthalten keine internen
-Demovideos. Verwendbarkeit des gesonderten Originalmaterials noch zu klären.
+- imessage-logo.svg: unverändert aus dem Recherche-Return übernommen. Quelle: https://commons.wikimedia.org/wiki/File:IMessage_logo.svg. Apple-Markenkennzeichen, nicht als selbst entworfenes Logo ausgegeben.
+- mindflow-original.png: Originalgrafik aus Stephans Alt-CV; unverändert. mindflow-favicon.png: reine Verkleinerung derselben Grafik.

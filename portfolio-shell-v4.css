@@ -1,0 +1,25 @@
+/* Gemeinsame Portfolio-Ebene: Apple und MindFlow sind gleichwertige Bereiche. */
+.portfolio-header,.portfolio-footer{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;color:#152134;font-size:15px;line-height:1.35}
+.portfolio-header *,.portfolio-footer *{box-sizing:border-box}
+.portfolio-header{background:#fff;border-bottom:1px solid #dde3ec;position:relative;z-index:40}
+.header-inner{max-width:1320px;margin:0 auto;min-height:88px;padding:18px 40px;display:flex;align-items:center;gap:28px}
+.identity{display:flex;align-items:center;gap:12px;text-decoration:none;color:#152134;flex:1;min-width:0}
+.identity-mark{font-size:29px;line-height:1;font-weight:750;letter-spacing:-2px;width:41px;height:41px;display:flex;align-items:center}.identity-mark>span{color:#2e59c9}
+.identity strong{font-size:16px;display:block;font-weight:650;letter-spacing:-.02em}.identity small{display:block;font-size:12px;color:#687386;margin-top:3px;letter-spacing:.015em}
+.area-switch{display:inline-flex;gap:5px;background:#eef1f7;padding:5px;border-radius:13px;border:1px solid #e3e7ef;flex:none}
+.area-switch a{display:inline-flex;align-items:center;justify-content:center;min-width:86px;min-height:40px;padding:9px 19px;border-radius:9px;text-decoration:none;font-size:15px;font-weight:600;color:#5b6678;line-height:1.2}
+.area-switch a[aria-current=page]{background:#173768;color:#fff;box-shadow:0 2px 8px #193b6920}
+.area-switch a:hover:not([aria-current]){background:#fff;color:#183666}
+.portfolio-header .portfolio-language{display:inline-flex;align-items:center;gap:0;background:transparent;border:0;box-shadow:none;padding:0;flex:none;margin:0}
+.portfolio-header .portfolio-language a{display:inline-flex;min-width:40px;min-height:42px;padding:10px 9px;align-items:center;justify-content:center;text-decoration:none;border-radius:7px;color:#687386;font-size:13px;font-weight:550;line-height:1.3;white-space:nowrap;box-shadow:none;background:none;border:0;margin:0}
+.portfolio-header .portfolio-language a[aria-current=true]{color:#143362;background:#edf2fc;font-weight:750}
+.portfolio-header .portfolio-language a[data-lang=auto]{font-size:12px;min-width:44px;color:#536276;border:0}
+.portfolio-header .portfolio-language a:hover{background:#edf2fc}
+.portfolio-header a:focus-visible,.portfolio-footer a:focus-visible{outline:3px solid #4476d4;outline-offset:3px}
+.portfolio-footer{background:#fff;border-top:1px solid #dde3ec;padding:24px 0}.portfolio-footer .wrap{display:flex;justify-content:space-between;gap:20px}.portfolio-footer a{color:inherit;text-underline-offset:4px}
+.icon-defs{position:absolute;width:0;height:0;overflow:hidden;pointer-events:none}
+.pf-mindflow .portfolio-header .ic{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8}
+.pf-mindflow .shell{padding-top:10px}.pf-mindflow .project-intro{padding-top:38px}.pf-mindflow .mf-reader-entry{display:none}
+@media(max-width:740px){.header-inner{padding:15px 20px;gap:12px;flex-wrap:wrap}.identity{flex-basis:calc(100% - 140px)}.identity-mark{width:29px;height:35px;font-size:25px}.identity strong{font-size:14px}.identity small{font-size:11px}.portfolio-header .portfolio-language{order:1;margin-left:auto}.area-switch{order:2;flex-basis:100%;display:flex;gap:5px}.area-switch a{flex:1;min-height:42px}.portfolio-footer .wrap{flex-direction:column;gap:8px;font-size:13px}.pf-mindflow .project-intro{padding-top:24px}}
+@media(max-width:360px){.header-inner{padding:12px 16px}.identity{gap:7px}.identity small{font-size:10px}.identity strong{font-size:13px}.portfolio-header .portfolio-language a{min-width:29px;padding:9px 6px}.portfolio-header .portfolio-language a[data-lang=auto]{min-width:35px}}
+@media(prefers-reduced-motion:reduce){.portfolio-header *{scroll-behavior:auto}}
