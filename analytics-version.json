@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-15-analytics-v2",
-  "website_base": "2026-10-14-final-v6",
-  "default": "basic-page-count",
-  "interaction_measurement": "explicit-opt-in",
-  "collector": "https://sgillmeier.goatcounter.com/count",
-  "automatic_browser_identification": false,
-  "public_report_contains_data": false
+  "version": "2026-10-17-basic-v4",
+  "mode": "pageviews-only",
+  "visitor_ids": false,
+  "sessions": false,
+  "detail_events": false,
+  "client_screen_readout": false,
+  "referrer_transmission": false
 }

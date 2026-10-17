@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://why-we-think.com/</loc></url>
-  <url><loc>https://why-we-think.com/de.html</loc></url>
-  <url><loc>https://why-we-think.com/apple-projekte.html</loc></url>
-  <url><loc>https://why-we-think.com/apple-projects.html</loc></url>
+<url><loc>https://why-we-think.com/de.html</loc></url>
+<url><loc>https://why-we-think.com/index.html</loc></url>
+<url><loc>https://why-we-think.com/apple-projekte.html</loc></url>
+<url><loc>https://why-we-think.com/apple-projects.html</loc></url>
+<url><loc>https://why-we-think.com/mindflow-lesen.html</loc></url>
+<url><loc>https://why-we-think.com/mindflow-read.html</loc></url>
 </urlset>

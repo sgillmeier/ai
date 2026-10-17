@@ -1,12 +1,6 @@
 {
-  "version": "2026-10-14-final-v6",
-  "date": "2026-10-14",
-  "pages": [
-    "index.html",
-    "de.html",
-    "apple-projekte.html",
-    "apple-projects.html"
-  ],
-  "revision": "Maps-Messages, SpriteKit-SceneKit, Originalicons; MindFlow nur H2",
-  "mindflow": "V5-Bestand; ausschließlich die Frage in DE/EN geändert"
+  "version": "2026-10-17-portfolio-v4",
+  "content": "Apple sample code, clear role attribution, readable MindFlow cards",
+  "analytics": "pageviews-only",
+  "prepared_at": "2026-10-17"
 }
